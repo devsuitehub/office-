@@ -51,7 +51,10 @@ Sehen Sie sich unsere YouTube-Playlist an, um mehr über die Funktionen von Offi
 
 Kontakt
 GitHub: https://github.com/DevSuiteHub/
+
 Discord: Community Chat
+
 Bleiben Sie auf dem Laufenden!
+
 Folgen Sie uns auf GitHub und abonnieren Sie unseren YouTube-Kanal, um regelmäßig über neue Funktionen und Updates informiert zu werden.
 
