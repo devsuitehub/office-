@@ -47,7 +47,7 @@ Lizenz
 Dieses Projekt steht unter der MIT-Lizenz. Weitere Details finden Sie in der LICENSE-Datei.
 
 Demos und Tutorials
-Sehen Sie sich unsere YouTube-Playlist an, um mehr über die Funktionen von Office Suite X zu erfahren und Tutorials zur optimalen Nutzung anzusehen.
+Sehen Sie sich unsere https://www.youtube.com/@devsuitehub an, um mehr über die Funktionen von Office Suite X zu erfahren und Tutorials zur optimalen Nutzung anzusehen.
 
 Kontakt
 GitHub: https://github.com/DevSuiteHub/
